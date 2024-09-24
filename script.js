@@ -35,4 +35,4 @@ let multiplicaicon = a*b; // 10
 let division = a/b; // 2.5
 
 // git add . / git commit -m "18/09/2024"
-// git push
+// git push.
